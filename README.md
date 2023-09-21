@@ -5,14 +5,9 @@
  </h1>
 </p>
 
-[![Test Workflow][test_workflow_badge]][test_workflow_url]
-
-
-[![Release Workflow][release_workflow_badge]][release_workflow_url]
-
+[![Test Workflow][test_workflow_badge]][test_workflow_url]  
+[![Release Workflow][release_workflow_badge]][release_workflow_url]   
 [![Publish Workflow][publish_workflow_badge]][publish_workflow_url]
-
-
 
 [shadcn-vue](https://www.shadcn-vue.com/) is an unofficial community-led [Vue](https://vuejs.org) port of [shadcn/ui](https://ui.shadcn.com/).
 
